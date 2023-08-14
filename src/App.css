@@ -1,0 +1,10 @@
+.setting{
+  width: 50%;
+  height:34%;
+  background-color: blue;
+}
+
+.card-img {
+  max-height: 306px; /* Set the maximum height you want */
+  width: auto; /* Let the width adjust based on the aspect ratio */
+}
